@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IELTS Success Blueprint</title>
+    
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Load Inter font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+
+    <!-- Configure Tailwind to use Inter font and custom colors -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'brand-blue': '#0000FF', // User's requested blue
+                        'brand-blue-dark': '#0000cc', // Darker hover
+                        'brand-blue-light': '#e6e6ff', // Light tint for backgrounds
+                        'dark-gray': '#1F2937',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+</head>
+<body class="font-sans antialiased bg-white">
+
+    <!-- HOOK / HERO SECTION -->
+    <header class="bg-brand-blue text-white py-16 px-4 md:py-24 shadow-xl">
+        <div class="max-w-6xl mx-auto text-center">
+            <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight mb-4">STOP GUESSING! START SUCCEEDING!</h1>
+            <p class="text-xl sm:text-2xl font-light mb-8 max-w-3xl mx-auto">The IELTS Success Blueprint is the exact roadmap that has helped hundreds achieve their target band scores and unlock life-changing opportunities abroad.</p>
+            <div class="h-1 bg-white w-24 mx-auto rounded-full mb-8"></div>
+            
+            <!-- Video Player -->
+            <div class="max-w-4xl mx-auto my-8">
+                <video class="w-full h-auto rounded-xl shadow-2xl" controls playsinline>
+                    <source src="https://ieltssuccessblueprint.com.ng/wp-content/uploads/2025/10/1000764585.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+
+            <a class="inline-block px-10 py-4 bg-white text-brand-blue hover:bg-brand-blue-light text-lg font-bold rounded-full shadow-lg transition duration-300 transform hover:scale-105" href="https://wa.link/9xlw49">
+                Unlock Your Target Score Now
+            </a>
+        </div>
+    </header>
+
+    <!-- SECTION 1: THE IELTS REALITY CHECK -->
+    <section class="py-16 px-4">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold text-center mb-12 text-dark-gray">The IELTS Reality Check: Why You’re Struggling</h2>
+            <p class="text-lg text-center mb-12 max-w-4xl mx-auto text-gray-600">It’s not about working harder. It’s about the hidden obstacles in your preparation that keep you stuck at Band 6.</p>
+            
+            <div class="grid md:grid-cols-3 gap-8">
+                <!-- Obstacle 1: Scattered Preparation -->
+                <div class="bg-white p-6 rounded-xl shadow-lg border-t-4 border-brand-blue-light hover:shadow-xl transition duration-300">
+                    <h3 class="text-xl font-semibold mb-3 text-dark-gray">1. Scattered Preparation</h3>
+                    <p class="text-gray-600">Jumping between random videos and generic plans without a tailored, comprehensive strategy. It's hard work without the blueprint.</p>
+                </div>
+                
+                <!-- Obstacle 2: The Strategy Gap -->
+                <div class="bg-white p-6 rounded-xl shadow-lg border-t-4 border-brand-blue-light hover:shadow-xl transition duration-300">
+                    <h3 class="text-xl font-semibold mb-3 text-dark-gray">2. The Strategy Gap</h3>
+                    <p class="text-gray-600">Focusing only on general English. IELTS demands specific test-taking strategies—knowing what examiners are scoring for structure and timing.</p>
+                </div>
+                
+                <!-- Obstacle 3: Lack of Feedback -->
+                <div class="bg-white p-6 rounded-xl shadow-lg border-t-4 border-brand-blue-light hover:shadow-xl transition duration-300">
+                    <h3 class="text-xl font-semibold mb-3 text-dark-gray">3. Lack of Personalized Feedback</h3>
+                    <p class="text-gray-600">Practicing without expert evaluation means you keep repeating the same costly mistakes. You need targeted guidance to break your plateau.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 2: THREE GAME-CHANGING BENEFITS -->
+    <section class="py-16 px-4 bg-brand-blue-light">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-3xl font-bold text-center mb-12 text-dark-gray">The Blueprint Difference: Three Transformative Benefits</h2>
+            <div class="space-y-12">
+                
+                <!-- Benefit 1: Structured Roadmap -->
+                <div class="md:flex items-center bg-white p-8 rounded-xl shadow-lg overflow-hidden">
+                    <div class="md:w-1/3 flex justify-center items-center gap-4 mb-4 md:mb-0">
+                        <span class="text-7xl font-bold text-brand-blue">1.</span>
+                        <h3 class="text-2xl font-semibold text-dark-gray">A Clear, Step-by-Step Roadmap</h3>
+                    </div>
+                    <div class="md:w-2/3 md:pl-8">
+                        <p class="text-gray-600 text-lg">Say goodbye to information overload. The Blueprint provides a comprehensive, week-by-week study plan tailored to your specific goals (Academic, General, or UKVI). You'll master high-scorer techniques for predicting Listening answers, quick Reading scanning, and structuring Band 7+ Writing responses. No more guessing—just clear, focused action.</p>
+                    </div>
+                </div>
+                
+                <!-- Benefit 2: Expert Feedback -->
+                <div class="md:flex flex-row-reverse items-center bg-white p-8 rounded-xl shadow-lg overflow-hidden">
+                    <div class="md:w-1/3 flex justify-center items-center gap-4 mb-4 md:mb-0">
+                        <span class="text-7xl font-bold text-brand-blue">2.</span>
+                        <h3 class="text-2xl font-semibold text-dark-gray text-center md:text-left">Expert Feedback That Accelerates Progress</h3>
+                    </div>
+                    <div class="md:w-2/3 md:pr-8">
+                        <p class="text-gray-600 text-lg">This is where the magic happens. Receive detailed, expert evaluations on your practice Writing tasks and mock Speaking interviews, all based on the official IELTS marking criteria. We show you exactly where you lose marks (Cohesion, Lexical Resource, etc.) and provide targeted strategies to climb from Band 6 to Band 7.5 or higher*.</p>
+                    </div>
+                </div>
+                
+                <!-- Benefit 3: Thriving Community -->
+                <div class="md:flex items-center bg-white p-8 rounded-xl shadow-lg overflow-hidden">
+                    <div class="md:w-1/3 flex justify-center items-center gap-4 mb-4 md:mb-0">
+                        <span class="text-7xl font-bold text-brand-blue">3.</span>
+                        <h3 class="text-2xl font-semibold text-dark-gray text-center md:text-left">Join a Thriving Community of Success Stories</h3>
+                    </div>
+                    <div class="md:w-2/3 md:pl-8">
+                        <p class="text-gray-600 text-lg">Preparation doesn't have to be lonely. Enroll and join a global community of motivated learners. Access group study sessions, find speaking partners, and gain the collective motivation that comes from being surrounded by people who understand your journey and are achieving their dreams—doctors, engineers, and students globally.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 3: THE TRANSFORMATION FRAMEWORK -->
+    <section class="py-20 px-4">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-3xl font-bold text-center mb-16 text-dark-gray">Your Transformation: The 8-Week Blueprint Journey</h2>
+            
+            <!-- Timeline Container -->
+            <div class="relative">
+                <!-- Vertical Line -->
+                <div class="absolute left-6 md:left-1/2 transform -translate-x-1/2 w-1 h-full bg-gray-200" aria-hidden="true"></div>
+
+                <!-- Timeline Item 1 -->
+                <div class="relative mb-12 flex items-center w-full">
+                    <div class="hidden md:block md:w-1/2 md:pr-12">
+                        <div class="p-6 bg-white rounded-xl shadow-lg border-l-4 border-brand-blue text-right">
+                            <h3 class="text-xl font-semibold text-brand-blue mb-2">1. Weeks 1-2: Diagnostic &amp; Focus</h3>
+                            <p class="text-gray-600">Comprehensive assessment identifies your current level and pinpoints areas for improvement. Focus your energy where it yields the highest score increase.</p>
+                        </div>
+                    </div>
+                    <div class="absolute left-6 md:left-1/2 transform -translate-x-1/2 z-10">
+                        <div class="w-12 h-12 bg-brand-blue rounded-full flex items-center justify-center text-white text-xl font-bold shadow-lg">1</div>
+                    </div>
+                    <div class="ml-12 md:ml-0 md:w-1/2 md:pl-12">
+                        <div class="p-6 bg-white rounded-xl shadow-lg border-l-4 border-brand-blue md:border-l-0 md:border-r-4 md:text-left block md:hidden">
+                            <h3 class="text-xl font-semibold text-brand-blue mb-2">1. Weeks 1-2: Diagnostic &amp; Focus</h3>
+                            <p class="text-gray-600">Comprehensive assessment identifies your current level and pinpoints areas for improvement. Focus your energy where it yields the highest score increase.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Timeline Item 2 -->
+                <div class="relative mb-12 flex items-center w-full">
+                    <div class="ml-12 md:ml-0 md:w-1/2 md:pr-12">
+                         <div class="p-6 bg-white rounded-xl shadow-lg border-l-4 border-brand-blue md:border-l-0 md:border-r-4 md:text-right">
+                            <h3 class="text-xl font-semibold text-brand-blue mb-2">2. Weeks 3-6: Structured Modules &amp; Mastery</h3>
+                            <p class="text-gray-600">Work through proven strategies for each section. Receive regular feedback, track progress, and see your scores rise—not by chance, but by design.</p>
+                        </div>
+                    </div>
+                    <div class="absolute left-6 md:left-1/2 transform -translate-x-1/2 z-10">
+                        <div class="w-12 h-12 bg-brand-blue rounded-full flex items-center justify-center text-white text-xl font-bold shadow-lg">2</div>
+                    </div>
+                    <div class="hidden md:block md:w-1/2 md:pl-12">
+                        <!-- Placeholder for alignment -->
+                    </div>
+                </div>
+
+                <!-- Timeline Item 3 -->
+                <div class="relative mb-12 flex items-center w-full">
+                    <div class="hidden md:block md:w-1/2 md:pr-12">
+                         <!-- Placeholder for alignment -->
+                    </div>
+                    <div class="absolute left-6 md:left-1/2 transform -translate-x-1/2 z-10">
+                        <div class="w-12 h-12 bg-brand-blue rounded-full flex items-center justify-center text-white text-xl font-bold shadow-lg">3</div>
+                    </div>
+                    <div class="ml-12 md:ml-0 md:w-1/2 md:pl-12">
+                        <div class="p-6 bg-white rounded-xl shadow-lg border-l-4 border-brand-blue">
+                            <h3 class="text-xl font-semibold text-brand-blue mb-2">3. Weeks 7-8: Intensive Timed Simulation</h3>
+                            <p class="text-gray-600">Full practice tests under timed conditions. Refine time management, build stamina, and eliminate test anxiety through repeated exposure and expert guidance.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Timeline Item 4 -->
+                <div class="relative mb-12 flex items-center w-full">
+                    <div class="ml-12 md:ml-0 md:w-1/2 md:pr-12">
+                         <div class="p-6 bg-white rounded-xl shadow-lg border-l-4 border-brand-blue md:border-l-0 md:border-r-4 md:text-right">
+                            <h3 class="text-xl font-semibold text-brand-blue mb-2">Test Day &amp; Beyond: Permanent Assets</h3>
+                            <p class="text-gray-600">Walk in with genuine assurance, knowing exactly how to ace each section. The skills you gain become permanent assets for your academic and professional career.</p>
+                        </div>
+                    </div>
+                    <div class="absolute left-6 md:left-1/2 transform -translate-x-1/2 z-10">
+                        <div class="w-12 h-12 bg-brand-blue rounded-full flex items-center justify-center text-white text-xl font-bold shadow-lg">4</div>
+                    </div>
+                    <div class="hidden md:block md:w-1/2 md:pl-12">
+                        <!-- Placeholder for alignment -->
+                    </div>
+                </div>
+
+            </div>
+            
+            <div class="text-center mt-12">
+                <h3 class="text-2xl font-semibold text-dark-gray">Your Future Self Will Thank You.</h3>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 4: ENROLLMENT CTA -->
+    <section id="enroll" class="py-20 px-4 bg-brand-blue text-white">
+        <div class="max-w-6xl mx-auto text-center">
+            <p class="text-xl font-light mb-12 text-white max-w-3xl mx-auto">The Success Blueprint isn't just for IELTS. We've adapted our winning strategies for committed individuals serious about transforming their future across all major exams.</p>
+            
+            <!-- Social Proof Grid -->
+            <div class="grid md:grid-cols-2 gap-6 mb-12 text-left">
+                <!-- IELTS Testimonial -->
+                <div class="bg-brand-blue-dark p-6 rounded-xl shadow-xl border border-brand-blue-light border-opacity-20">
+                    <p class="text-lg italic text-white mb-4">"I was stuck at Band 6.5 for a year. After just six weeks with the Blueprint, I hit an 8.0 overall. It was the strategic feedback that changed everything."</p>
+                    <p class="font-semibold text-brand-blue-light">- Sarah K., IELTS Academic (UK)</p>
+                </div>
+
+                <!-- OET Testimonial -->
+                <div class="bg-brand-blue-dark p-6 rounded-xl shadow-xl border border-brand-blue-light border-opacity-20">
+                    <p class="text-lg italic text-white mb-4">"Getting a Grade B in Writing was my nightmare for UK nursing registration. The specific medical writing corrections and referral letter templates were exactly what I needed to pass."</p>
+                    <p class="font-semibold text-brand-blue-light">- Chinwe E., OET Nursing (UK)</p>
+                </div>
+
+                <!-- TOEFL Testimonial -->
+                <div class="bg-brand-blue-dark p-6 rounded-xl shadow-xl border border-brand-blue-light border-opacity-20">
+                    <p class="text-lg italic text-white mb-4">"My dream was a US scholarship, but I froze during the speaking section. The templates helped me organize my thoughts instantly. I jumped from 85 to 104 in one month!"</p>
+                    <p class="font-semibold text-brand-blue-light">- Ahmed K., TOEFL iBT (USA)</p>
+                </div>
+
+                <!-- CELPIP Testimonial -->
+                <div class="bg-brand-blue-dark p-6 rounded-xl shadow-xl border border-brand-blue-light border-opacity-20">
+                    <p class="text-lg italic text-white mb-4">"For Canadian PR, I needed CLB 9. I struggled with the daily life listening tasks until I used the Blueprint strategies. Finally got my invitation to apply!"</p>
+                    <p class="font-semibold text-brand-blue-light">- Maria R., CELPIP General (Canada)</p>
+                </div>
+            </div>
+            
+            <div class="max-w-4xl mx-auto">
+                <a class="inline-block px-12 py-5 bg-white text-brand-blue hover:bg-brand-blue-light text-xl font-bold rounded-full shadow-2xl transition duration-300 transform hover:scale-105" href="https://wa.link/9xlw49">
+                    Reserve Your Spot in the Next Cohort
+                </a>
+                <p class="text-sm mt-4 text-gray-200">Immediate access to the full curriculum and your first expert feedback session.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="py-8 px-4 text-center text-gray-500 text-sm bg-white">
+        <p>© 2025 IELTS MasterClass Club, Managed By EPT Advisors &amp; Educators. All Rights Reserved. | <a class="hover:text-brand-blue" href="#">Privacy Policy</a></p>
+    </footer>
+
+</body>
+</html>
